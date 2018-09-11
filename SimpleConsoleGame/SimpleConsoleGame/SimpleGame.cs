@@ -43,7 +43,7 @@ namespace SimpleConsoleGame
                     break;
                 else if(!isNumber(userValue))                       //check user value to contert it to number
                 {
-                    drawError("Please type the numbers which I guessed");
+                    drawError("Please type the number which I guessed");
                     continue;
                 }
 
