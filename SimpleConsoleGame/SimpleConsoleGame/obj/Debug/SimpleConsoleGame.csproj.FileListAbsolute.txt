@@ -1,0 +1,10 @@
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.exe.config
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.exe
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.pdb
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.csproj.CoreCompileInputs.cache
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.exe
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.pdb
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.exe.manifest
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\bin\Debug\SimpleConsoleGame.application
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.exe.manifest
+D:\Dot-net C#\SimpleConsoleGame\SimpleConsoleGame\obj\Debug\SimpleConsoleGame.application
